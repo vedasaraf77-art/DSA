@@ -16,7 +16,7 @@ function binarySearch(arr,target){
         }
         else{
             low=mid+1;
-        }
+        }   
     }
 
 }
