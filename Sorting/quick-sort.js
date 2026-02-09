@@ -1,4 +1,4 @@
-function quickSort(arr) {
+  function quickSort(arr) {
   // 🧊 Base case: stop when 0 or 1 element
   if (arr.length <= 1) {
     return arr;
